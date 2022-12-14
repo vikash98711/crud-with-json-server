@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "ravi",
+      "username": "Anuragi",
+      "email": "ravianuragi12356@gmail.c98m",
+      "phone": "9845678235",
+      "id": 1
+    },
+    {
+      "name": "ravi",
+      "username": "kumar",
+      "email": "ravianuragi12356@gmail.c98m",
+      "phone": "9845678235",
+      "id": 2
+    }
+  ]
+}
